@@ -2,11 +2,10 @@
 #include "Player.h"
 
 class Karaoke {
-    
-    Player base;
 
     private :
 
+        Player base;
         std::string _song1;
         std::string _song2;
         std::string _song3;
@@ -14,6 +13,6 @@ class Karaoke {
         std::string _song5;
 
     public:
-
+    
 
 };

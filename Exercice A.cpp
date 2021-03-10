@@ -2,17 +2,12 @@
 #include <string>
 #include <vector>
 
-#include "Player.cpp"
+#include "PlayerA.cpp"
 
 using namespace std;
 
 int main(){
 
-    //********** Exercice A **********
-
     Player one ("Linda",0);
-    
-
-    //********** Exercice B **********
 
 }

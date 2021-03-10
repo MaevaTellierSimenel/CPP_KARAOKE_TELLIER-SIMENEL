@@ -6,4 +6,9 @@
 
 using namespace std;
 
-Player one ("Linda",0);
+int main(){
+
+    Player one ("Linda",0);
+
+    
+}

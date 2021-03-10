@@ -33,6 +33,6 @@ class Player {
         void updateScore5(int _bestscore5,int _newscore5);
 
         Player();
-        Player(std::string _name,int _bestscore);
+        Player(std::string _name);
 
 };

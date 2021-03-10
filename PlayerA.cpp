@@ -1,7 +1,9 @@
 #include <string>
 #include <iostream>
 
-void Player::getName(std::string _name){
+
+
+std::string Player::getName(std::string _name){
     std::cout<<"Votre pseudo est"<< _name <<"."<<std::endl;
     return;
 }

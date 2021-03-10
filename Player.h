@@ -5,6 +5,7 @@ class Player {
     private:
 
         std::string _name;
+        
         int _bestscore1;
         int _bestscore2;
         int _bestscore3;

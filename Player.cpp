@@ -33,3 +33,14 @@ void Player::getScore5(int _bestscore5){
     return;
 }
 
+//______________________________________________________________________________________
+
+void Player::updateScore1(int _bestscore1,int _newscore1){
+    (_newscore5) == 0;
+    std::cout<<"Donnez votre nouveau score (entre 50 et 100) : ";
+    cin>> _newscore1 ;
+
+    if ((_newscore1)>=(_bestscore1));
+        (_bestscore1) == (_newscore1);
+    return;
+}

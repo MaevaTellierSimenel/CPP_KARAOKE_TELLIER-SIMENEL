@@ -14,5 +14,11 @@ class Karaoke {
 
     public:
     
-
+    /*Methodes :
+    - Choix de la chanson
+    - Lancement
+    - Appel updateScore
+    - Moyenne des scores
+    - Meilleur score */
 };
+

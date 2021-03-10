@@ -58,3 +58,5 @@ void Player::updateScore5(int _bestscore5,int _newscore5){
 Player::Player(std::string _name) {
     std::string _name = "<insert name>";
 }
+
+//point virgule manquant non-trouvé

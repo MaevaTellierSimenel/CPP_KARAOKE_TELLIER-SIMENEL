@@ -1,6 +1,9 @@
 #include <string>
+#include "Player.h"
 
 class Karaoke {
+    
+    Player base;
 
     private :
 

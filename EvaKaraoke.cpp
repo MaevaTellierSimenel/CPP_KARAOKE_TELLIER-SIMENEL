@@ -5,3 +5,5 @@
 #include "Player.cpp"
 
 using namespace std;
+
+Player one ("Linda",0);

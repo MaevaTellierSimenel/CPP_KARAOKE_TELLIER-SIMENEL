@@ -85,4 +85,4 @@ void Player::updateScore5(int _bestscore5,int _newscore5){
 
 //______________________________________________________________________________________
 
-Player::Player()
+Player::Player(std::string _name) : name {};

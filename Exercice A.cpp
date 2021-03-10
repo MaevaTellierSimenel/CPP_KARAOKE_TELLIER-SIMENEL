@@ -2,12 +2,15 @@
 #include <string>
 #include <vector>
 
-#include "PlayerA.cpp"
+#include "Player.cpp"
 
 using namespace std;
 
 int main(){
 
-    Player one ("Linda",0);
+    Player one = Player("Linda");
+
+
+    one.updateScore1();
 
 }
